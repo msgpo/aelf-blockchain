@@ -9,6 +9,7 @@ using AElf.ContractDeployer;
 using AElf.Contracts.Genesis;
 using AElf.Contracts.MultiToken;
 using AElf.Contracts.Vote;
+using AElf.ContractTestBase.ContractTestKit;
 using AElf.Cryptography;
 using AElf.CSharp.Core.Extension;
 using AElf.Kernel;
@@ -30,7 +31,6 @@ using Org.BouncyCastle.Utilities.Encoders;
 using Shouldly;
 using Xunit;
 using Xunit.Abstractions;
-using SampleAddress = AElf.Kernel.SampleAddress;
 
 namespace AElf.WebApp.Application.Chain.Tests
 {

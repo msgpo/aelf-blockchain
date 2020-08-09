@@ -13,16 +13,20 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\contract\AElf.Contracts.Genesis\AElf.Contracts.Genesis.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Database\AElf.Database.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Kernel\AElf.Kernel.csproj" />
-        <ProjectReference Include="..\..\src\AElf.OS.Core\AElf.OS.Core.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Runtime.CSharp\AElf.Runtime.CSharp.csproj" />
-        <ProjectReference Include="..\AElf.ContractDeployer\AElf.ContractDeployer.csproj" />
-        <ProjectReference Include="..\AElf.Kernel.SmartContract.ExecutionPluginForCallThreshold\AElf.Kernel.SmartContract.ExecutionPluginForCallThreshold.csproj" />
-        <ProjectReference Include="..\AElf.Kernel.SmartContract.ExecutionPluginForMethodFee\AElf.Kernel.SmartContract.ExecutionPluginForMethodFee.csproj" />
-        <ProjectReference Include="..\AElf.Kernel.SmartContract.ExecutionPluginForResourceFee\AElf.Kernel.SmartContract.ExecutionPluginForResourceFee.csproj" />
+        <PackageReference Include="AElf.Contracts.Genesis" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Database" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Kernel" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.OS.Core" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Runtime.CSharp" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Kernel.SmartContract.ExecutionPluginForCallThreshold" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Kernel.SmartContract.ExecutionPluginForMethodFee" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Kernel.SmartContract.ExecutionPluginForResourceFee" Version="1.0.0-preview3-18483" />
     </ItemGroup>
+    
+    <ItemGroup>
+        <ProjectReference Include="..\AElf.ContractDeployer\AElf.ContractDeployer.csproj" />
+    </ItemGroup>
+    
     <ItemGroup>
         <None Include="..\..\protobuf\kernel.proto">
             <Link>Protobuf/Proto/kernel.proto</Link>

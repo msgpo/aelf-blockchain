@@ -8,17 +8,24 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AElf.OS.Core" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Runtime.CSharp" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Runtime.CSharp.Core" Version="1.0.0-preview3-18483" />
         <PackageReference Include="BenchmarkDotNet" Version="0.11.5" />
         <PackageReference Include="BenchmarkDotNet.Diagnostics.Windows" Version="0.11.5" />
     </ItemGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="AElf.Contracts.Genesis" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Kernel.SmartContract.Parallel" Version="1.0.0-preview3-18483" />
+    </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\test\AElf.OS.Core.Tests\AElf.OS.Core.Tests.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Kernel.SmartContract.Parallel\AElf.Kernel.SmartContract.Parallel.csproj" />
+        <ProjectReference Include="..\..\src\AElf.ContractTestBase\AElf.ContractTestBase.csproj" />
+        <ProjectReference Include="..\..\test\AElf.TestBase\AElf.TestBase.csproj" />
         <ProjectReference Include="..\AElf.Benchmark.PerformanceTestContract\AElf.Benchmark.PerformanceTestContract.csproj" />
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\..\contract\AElf.Contracts.Genesis\AElf.Contracts.Genesis.csproj" />
         <ProjectReference Include="..\..\contract\AElf.Contracts.Consensus.AEDPoS\AElf.Contracts.Consensus.AEDPoS.csproj">
             <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
             <OutputItemType>Contract</OutputItemType>
@@ -36,6 +43,9 @@
         </ProjectReference>
     </ItemGroup>
     <ItemGroup>
+        <ContractMessage Include="..\..\protobuf\transaction_fee.proto">
+            <Link>Protobuf/Proto/transaction_fee.proto</Link>
+        </ContractMessage>
         <ContractStub Include="..\..\protobuf\token_contract.proto">
             <Link>Protobuf\Proto\token_contract.proto</Link>
         </ContractStub>

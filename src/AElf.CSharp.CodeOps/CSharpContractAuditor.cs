@@ -11,7 +11,6 @@ using AElf.Kernel.SmartContract;
 using Microsoft.Extensions.Options;
 using Mono.Cecil;
 
-
 namespace AElf.CSharp.CodeOps
 {
     public class CSharpContractAuditor : IContractAuditor

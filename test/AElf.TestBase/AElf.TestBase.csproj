@@ -4,7 +4,7 @@
         <IsPackable>false</IsPackable>
     </PropertyGroup>
     <ItemGroup>
-        <ProjectReference Include="..\..\src\AElf.Core\AElf.Core.csproj" />
+        <PackageReference Include="AElf.Core" Version="1.0.0-preview3-18483" />
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="MartinCostello.Logging.XUnit" Version="0.1.0" />

@@ -5,6 +5,7 @@ using AElf.Kernel;
 using AElf.Types;
 using AElf.Contracts.Configuration;
 using AElf.Contracts.Parliament;
+using AElf.ContractTestBase.ContractTestKit;
 using AElf.Kernel.CodeCheck;
 using AElf.Kernel.Configuration;
 using AElf.Kernel.SmartContractExecution.Application;

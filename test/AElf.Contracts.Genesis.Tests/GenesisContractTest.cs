@@ -1,6 +1,7 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Acs0;
+using AElf.ContractTestBase.ContractTestKit;
 using AElf.Kernel;
 using AElf.Types;
 using Google.Protobuf;

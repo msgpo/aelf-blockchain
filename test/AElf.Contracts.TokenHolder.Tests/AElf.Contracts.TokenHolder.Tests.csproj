@@ -26,7 +26,7 @@
         <ProjectReference Include="..\..\src\AElf.ContractTestKit\AElf.ContractTestKit.csproj" />
         <ProjectReference Include="..\..\src\AElf.EconomicSystem\AElf.EconomicSystem.csproj" />
         <ProjectReference Include="..\..\test\AElf.Contracts.TestContract.DApp\AElf.Contracts.TestContract.DApp.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Kernel.Token\AElf.Kernel.Token.csproj" />
+        <PackageReference Include="AElf.Kernel.Token" Version="1.0.0-preview3-18483" />
     </ItemGroup>
     <ItemGroup>
         <ContractStub Include="..\..\protobuf\acs1.proto">

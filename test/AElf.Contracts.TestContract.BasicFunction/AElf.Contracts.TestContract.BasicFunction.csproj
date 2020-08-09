@@ -14,7 +14,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\AElf.Sdk.CSharp\AElf.Sdk.CSharp.csproj" />
+      <PackageReference Include="AElf.Sdk.CSharp" Version="1.0.0-preview3-18483" />
     </ItemGroup>
 
     <ItemGroup>

@@ -8,6 +8,7 @@ using AElf.Contracts.Consensus.AEDPoS;
 using AElf.Contracts.CrossChain;
 using AElf.Contracts.Genesis;
 using AElf.Contracts.MultiToken;
+using AElf.ContractTestBase.ContractTestKit;
 using AElf.CrossChain;
 using AElf.Cryptography;
 using AElf.Cryptography.ECDSA;

@@ -17,7 +17,7 @@ Basically add bellowing references:
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\..\src\AElf.Contracts.TestKit.AEDPoSExtension\AElf.Contracts.TestKit.AEDPoSExtension.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Kernel.Token\AElf.Kernel.Token.csproj" />
+        <PackageReference Include="AElf.Kernel.Token" Version="1.0.0-preview3-18483" />
     </ItemGroup>
     <Import Project="..\AllContracts.props" />
 ```

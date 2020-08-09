@@ -7,9 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AElf.Database" Version="1.0.0-preview3-18483" />
+        <PackageReference Include="AElf.Types" Version="1.0.0-preview3-18483" />
+    </ItemGroup>
+
+    <ItemGroup>
         <ProjectReference Include="..\AElf.BenchBase\AElf.BenchBase.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Database\AElf.Database.csproj" />
-        <ProjectReference Include="..\..\src\AElf.Types\AElf.Types.csproj" />
     </ItemGroup>
 
     <ItemGroup>

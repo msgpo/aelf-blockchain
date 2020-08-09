@@ -1,0 +1,3317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/AElf.RuntimeSetup/1.0.0-preview3-18483/contentFiles/any/netcoreapp3.1/launchSettings.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.diagnostics.tracing.traceevent/2.0.34/lib/native/amd64" t="Include">
+      <e p="KernelTraceControl.dll" t="Include" />
+      <e p="msdia140.dll" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/microsoft.diagnostics.tracing.traceevent/2.0.34/lib/native/x86" t="Include">
+      <e p="KernelTraceControl.dll" t="Include" />
+      <e p="KernelTraceControl.Win61.dll" t="Include" />
+      <e p="msdia140.dll" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/microsoft.diagnostics.tracing.traceevent/2.0.34/lib/netstandard1.6/Dia2Lib.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.diagnostics.tracing.traceevent/2.0.34/lib/netstandard1.6/OSExtensions.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.diagnostics.tracing.traceevent/2.0.34/lib/netstandard1.6/TraceReloggerLib.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.6.1/build/netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/volo.abp.aspnetcore.mvc/2.9.0/contentFiles/any/netcoreapp3.1/Properties" t="Include">
+      <e p="launchSettings.json" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/volo.abp.aspnetcore.testbase/2.9.0/contentFiles/any/netcoreapp3.1/Properties" t="Include">
+      <e p="launchSettings.json" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.2/build/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.2/build/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.2/build/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_AElf.Blockchain.-823700416.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AElf.Blockchain.sln" t="IncludeFlat" />
+      <e p="bench" t="Include">
+        <e p="AElf.BenchBase" t="IncludeRecursive">
+          <e p="AElf.BenchBase.csproj" t="IncludeRecursive" />
+          <e p="Assembly.cs" t="Include" />
+          <e p="BenchBaseAElfModule.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.BenchBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Benchmark" t="IncludeRecursive">
+          <e p="AElf.Benchmark.csproj" t="IncludeRecursive" />
+          <e p="BenchmarkAElfModule.cs" t="Include" />
+          <e p="BenchmarkTestBase.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BlockAttachTests.cs" t="Include" />
+          <e p="BlockchainStateMergingTests.cs" t="Include" />
+          <e p="BlockExecutingParallelGroupsTests.cs" t="Include" />
+          <e p="BlockExecutingParallelTests.cs" t="Include" />
+          <e p="BlockExecutingTests.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="Fibonacci16Tests.cs" t="Include" />
+          <e p="LoopDivAdd10MTests.cs" t="Include" />
+          <e p="LoopExpNop1MTests.cs" t="Include" />
+          <e p="MinerTests.cs" t="Include" />
+          <e p="MiningTxHubBenchmark.cs" t="Include" />
+          <e p="MockTxHub.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Benchmark.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OSTestHelper.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TransactionVerifySignatureTests.cs" t="Include" />
+          <e p="TxHubHandleBestChainFoundTests.cs" t="Include" />
+          <e p="TxHubTransactionsReceiveTests.cs" t="Include" />
+        </e>
+        <e p="AElf.Benchmark.PerformanceTestContract" t="IncludeRecursive">
+          <e p="AElf.Benchmark.PerformanceTestContract.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Benchmark.PerformanceTestContract.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PerformanceTestContract.cs" t="Include" />
+          <e p="PerformanceTestContractState.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="PerformanceTestContract.c.cs" t="Include" />
+              <e p="PerformanceTestContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Database.Benches" t="IncludeRecursive">
+          <e p="AElf.Database.Benches.csproj" t="IncludeRecursive" />
+          <e p="Assembly.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DatabaseBenchAElfModule.cs" t="Include" />
+          <e p="DatabaseTests.cs" t="Include" />
+          <e p="DbContext.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Database.Benches.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="StorageKeyTests.cs" t="Include" />
+          <e p="ThroughPutTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="contract" t="Include">
+        <e p="AElf.Contracts.Association" t="IncludeRecursive">
+          <e p="AElf.Contracts.Association.csproj" t="IncludeRecursive" />
+          <e p="Association.cs" t="Include" />
+          <e p="Association_Extensions.cs" t="Include" />
+          <e p="Association_Helper.cs" t="Include" />
+          <e p="AssociationContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="AssociationReferenceState.cs" t="Include" />
+          <e p="AssociationState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Association.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OrganizationMemberList.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Configuration" t="IncludeRecursive">
+          <e p="AElf.Contracts.Configuration.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ConfigurationContract.cs" t="Include" />
+          <e p="ConfigurationContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="ConfigurationContract_Helper.cs" t="Include" />
+          <e p="ConfigurationReferenceState.cs" t="Include" />
+          <e p="ConfigurationState.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Configuration.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Consensus.AEDPoS" t="IncludeRecursive">
+          <e p="AEDPoSContract.cs" t="Include" />
+          <e p="AEDPoSContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="AEDPoSContract_ACS4_ConsensusInformationProvider.cs" t="Include" />
+          <e p="AEDPoSContract_CacheFileds.cs" t="Include" />
+          <e p="AEDPoSContract_GetConsensusBlockExtraData.cs" t="Include" />
+          <e p="AEDPoSContract_GetConsensusCommand.cs" t="Include" />
+          <e p="AEDPoSContract_GetMaximumBlocksCount.cs" t="Include" />
+          <e p="AEDPoSContract_HelpMethods.cs" t="Include" />
+          <e p="AEDPoSContract_LIB.cs" t="Include" />
+          <e p="AEDPoSContract_MaximumMinersCount.cs" t="Include" />
+          <e p="AEDPoSContract_NextTerm.cs" t="Include" />
+          <e p="AEDPoSContract_ProcessConsensusInformation.cs" t="Include" />
+          <e p="AEDPoSContract_SecretSharing.cs" t="Include" />
+          <e p="AEDPoSContract_SideChainDividendsPool.cs" t="Include" />
+          <e p="AEDPoSContract_Validation.cs" t="Include" />
+          <e p="AEDPoSContract_ValidationService.cs" t="Include" />
+          <e p="AEDPoSContract_ViewMethods.cs" t="Include" />
+          <e p="AEDPoSContractConstants.cs" t="Include" />
+          <e p="AElf.Contracts.Consensus.AEDPoS.csproj" t="IncludeRecursive" />
+          <e p="AElfConsensusContractState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ConsensusCommandGeneration" t="Include">
+            <e p="ConsensusBehaviourProviderBase.cs" t="Include" />
+            <e p="ConsensusCommandProvider.cs" t="Include" />
+            <e p="MainChainConsensusBehaviourProvider.cs" t="Include" />
+            <e p="MiningTimeArrangingService.cs" t="Include" />
+            <e p="SideChainConsensusBehaviourProvider.cs" t="Include" />
+            <e p="Strategies" t="Include">
+              <e p="CommandStrategyBase.cs" t="Include" />
+              <e p="FirstRoundCommandStrategy.cs" t="Include" />
+              <e p="ICommandStrategy.cs" t="Include" />
+              <e p="NormalBlockCommandStrategy.cs" t="Include" />
+              <e p="TerminateRoundCommandStrategy.cs" t="Include" />
+              <e p="TinyBlockCommandStrategy.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ConsensusHeaderInfoValidationProviders" t="Include">
+            <e p="ConsensusValidationContext.cs" t="Include" />
+            <e p="ContinuousBlocksValidationProvider.cs" t="Include" />
+            <e p="IHeaderInformationValidationProvider.cs" t="Include" />
+            <e p="LibInformationValidationProvider.cs" t="Include" />
+            <e p="MiningPermissionValidationProvider.cs" t="Include" />
+            <e p="NextRoundMiningOrderValidationProvider.cs" t="Include" />
+            <e p="NormalBlockValidationProvider.cs" t="Include" />
+            <e p="RoundTerminateValidationProvider.cs" t="Include" />
+            <e p="TimeSlotValidationProvider.cs" t="Include" />
+            <e p="UpdateValueValidationProvider.cs" t="Include" />
+          </e>
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Consensus.AEDPoS.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenHolderContract.c.cs" t="Include" />
+              <e p="TokenHolderContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_ApplyNormalConsensusData.cs" t="Include" />
+            <e p="Round_ArrangeAbnormalMiningTime.cs" t="Include" />
+            <e p="Round_ExtractInformationToUpdateConsensus.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+            <e p="Round_GetLighterRound.cs" t="Include" />
+            <e p="Round_GetLogs.cs" t="Include" />
+            <e p="Round_ImpliedIrreversibleBlockHeight.cs" t="Include" />
+            <e p="Round_Recover.cs" t="Include" />
+            <e p="Round_Simplify.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.CrossChain" t="IncludeRecursive">
+          <e p="AElf.Contracts.CrossChain.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="CrossChainContract.cs" t="Include" />
+          <e p="CrossChainContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="CrossChainContract_Constants.cs" t="Include" />
+          <e p="CrossChainContract_Helper.cs" t="Include" />
+          <e p="CrossChainContract_View.cs" t="Include" />
+          <e p="CrossChainContractState.cs" t="Include" />
+          <e p="CrossChainReferenceState.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.CrossChain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs7.c.cs" t="Include" />
+              <e p="Acs7.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Economic" t="IncludeRecursive">
+          <e p="AElf.Contracts.Economic.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="EconomicContract.cs" t="Include" />
+          <e p="EconomicContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="EconomicContractConstants.cs" t="Include" />
+          <e p="EconomicContractState.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Economic.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Election" t="IncludeRecursive">
+          <e p="AElf.Contracts.Election.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ElectionContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="ElectionContract_Candidate.cs" t="Include" />
+          <e p="ElectionContract_Elector.cs" t="Include" />
+          <e p="ElectionContract_Maintainence.cs" t="Include" />
+          <e p="ElectionContractConstants.cs" t="Include" />
+          <e p="ElectionContractReferenceState.cs" t="Include" />
+          <e p="ElectionContractState.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Election.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="TimestampHelper.cs" t="Include" />
+          <e p="ViewMethods.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.MultiToken" t="IncludeRecursive">
+          <e p="AElf.Contracts.MultiToken.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.MultiToken.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs7.c.cs" t="Include" />
+              <e p="Acs7.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="TokenContract_ACS1_MethodFeeProvider.cs" t="Include" />
+          <e p="TokenContract_ACS2_StatePathsProvider.cs" t="Include" />
+          <e p="TokenContract_Actions.cs" t="Include" />
+          <e p="TokenContract_CacheFileds.cs" t="Include" />
+          <e p="TokenContract_Fee_Calculate_Coefficient.cs" t="Include" />
+          <e p="TokenContract_Fees.cs" t="Include" />
+          <e p="TokenContract_Helper.cs" t="Include" />
+          <e p="TokenContract_Method_Authorization.cs" t="Include" />
+          <e p="TokenContract_Views.cs" t="Include" />
+          <e p="TokenContractConstants.cs" t="Include" />
+          <e p="TokenContractReferenceState.cs" t="Include" />
+          <e p="TokenContractState.cs" t="Include" />
+          <e p="TokenContractState_ChargeFee.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="TransactionFeeBill.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.Parliament" t="IncludeRecursive">
+          <e p="AElf.Contracts.Parliament.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Parliament.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Parliament.cs" t="Include" />
+          <e p="Parliament_Constants.cs" t="Include" />
+          <e p="Parliament_Helper.cs" t="Include" />
+          <e p="ParliamentContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="ParliamentState.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Profit" t="IncludeRecursive">
+          <e p="AElf.Contracts.Profit.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Profit.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ProfitContract.cs" t="Include" />
+          <e p="ProfitContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="ProfitContractConstants.cs" t="Include" />
+          <e p="ProfitContractState.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="ViewMethods.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Referendum" t="IncludeRecursive">
+          <e p="AElf.Contracts.Referendum.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Referendum.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ProposerWhiteListExtensions.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="Referendum.cs" t="Include" />
+          <e p="Referendum_Helper.cs" t="Include" />
+          <e p="ReferendumContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="ReferendumState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TokenConverter" t="IncludeRecursive">
+          <e p="AElf.Contracts.TokenConverter.csproj" t="IncludeRecursive" />
+          <e p="BancorHelper.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="InvalidValueException.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TokenConverter.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="TokenConvert_Views.cs" t="Include" />
+          <e p="TokenConverterContract.cs" t="Include" />
+          <e p="TokenConverterContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="TokenConverterContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TokenHolder" t="IncludeRecursive">
+          <e p="AElf.Contracts.TokenHolder.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TokenHolder.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenHolderContract.c.cs" t="Include" />
+              <e p="TokenHolderContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="TokenHolderContract.cs" t="Include" />
+          <e p="TokenHolderContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="TokenHolderContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Treasury" t="IncludeRecursive">
+          <e p="AElf.Contracts.Treasury.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Treasury.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="TreasuryContract.cs" t="Include" />
+          <e p="TreasuryContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="TreasuryContractConstants.cs" t="Include" />
+          <e p="TreasuryContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Vote" t="IncludeRecursive">
+          <e p="AElf.Contracts.Vote.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.Vote.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="ViewMethods.cs" t="Include" />
+          <e p="VoteContract.cs" t="Include" />
+          <e p="VoteContract_ACS1_TransactionFeeProvider.cs" t="Include" />
+          <e p="VoteContractConstants.cs" t="Include" />
+          <e p="VoteContractState.cs" t="Include" />
+          <e p="VoteExtensions.cs" t="Include" />
+        </e>
+        <e p="Directory.Build.props" t="Include" />
+      </e>
+      <e p="LICENSE" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Protobuf/acs0.proto" t="Include" />
+      <e p="Protobuf/acs1.proto" t="Include" />
+      <e p="Protobuf/acs10.proto" t="Include" />
+      <e p="Protobuf/acs2.proto" t="Include" />
+      <e p="Protobuf/acs3.proto" t="Include" />
+      <e p="Protobuf/acs4.proto" t="Include" />
+      <e p="Protobuf/acs5.proto" t="Include" />
+      <e p="Protobuf/acs6.proto" t="Include" />
+      <e p="Protobuf/acs7.proto" t="Include" />
+      <e p="Protobuf/acs8.proto" t="Include" />
+      <e p="Protobuf/acs8_plugin_test_contract.proto" t="Include" />
+      <e p="Protobuf/acs9.proto" t="Include" />
+      <e p="Protobuf/aedpos_contract.proto" t="Include" />
+      <e p="Protobuf/aedpos_contract_impl.proto" t="Include" />
+      <e p="Protobuf/aelf/core.proto" t="Include" />
+      <e p="Protobuf/aelf/options.proto" t="Include" />
+      <e p="Protobuf/association_contract.proto" t="Include" />
+      <e p="Protobuf/basic_contract_zero.proto" t="Include" />
+      <e p="Protobuf/basic_contract_zero_update.proto" t="Include" />
+      <e p="Protobuf/configuration_contract.proto" t="Include" />
+      <e p="Protobuf/cross_chain_contract.proto" t="Include" />
+      <e p="Protobuf/dapp_contract.proto" t="Include" />
+      <e p="Protobuf/economic_contract.proto" t="Include" />
+      <e p="Protobuf/election_contract.proto" t="Include" />
+      <e p="Protobuf/kernel.proto" t="Include" />
+      <e p="Protobuf/parliament_contract.proto" t="Include" />
+      <e p="Protobuf/performance_test_contract.proto" t="Include" />
+      <e p="Protobuf/profit_contract.proto" t="Include" />
+      <e p="Protobuf/random_number_provider_contract.proto" t="Include" />
+      <e p="Protobuf/referendum_contract.proto" t="Include" />
+      <e p="Protobuf/resource_contract.proto" t="Include" />
+      <e p="Protobuf/test_a_contract.proto" t="Include" />
+      <e p="Protobuf/test_b_contract.proto" t="Include" />
+      <e p="Protobuf/test_basic_function_contract.proto" t="Include" />
+      <e p="Protobuf/test_basic_function_with_parallel_contract.proto" t="Include" />
+      <e p="Protobuf/test_basic_security_contract.proto" t="Include" />
+      <e p="Protobuf/test_basic_update_contract.proto" t="Include" />
+      <e p="Protobuf/test_c_contract.proto" t="Include" />
+      <e p="Protobuf/test_events_contract.proto" t="Include" />
+      <e p="Protobuf/test_method_call_threshold_contract.proto" t="Include" />
+      <e p="Protobuf/test_performance_contract.proto" t="Include" />
+      <e p="Protobuf/test_resource_spender_contract.proto" t="Include" />
+      <e p="Protobuf/test_transaction_fee_charging_contract.proto" t="Include" />
+      <e p="Protobuf/test_transaction_fees_contract.proto" t="Include" />
+      <e p="Protobuf/token_contract.proto" t="Include" />
+      <e p="Protobuf/token_contract_impl.proto" t="Include" />
+      <e p="Protobuf/token_converter_contract.proto" t="Include" />
+      <e p="Protobuf/token_holder_contract.proto" t="Include" />
+      <e p="Protobuf/transaction_fee.proto" t="Include" />
+      <e p="Protobuf/treasury_contract.proto" t="Include" />
+      <e p="Protobuf/vote_contract.proto" t="Include" />
+      <e p="src" t="Include">
+        <e p="AElf.Blockchains" t="Include" />
+        <e p="AElf.Blockchains.BasicBaseChain" t="IncludeRecursive">
+          <e p="AElf.Blockchains.BasicBaseChain.csproj" t="IncludeRecursive" />
+          <e p="BasicBaseChainAElfModule.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="GenesisSmartContractDtoProviderBase.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Blockchains.BasicBaseChain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Blockchains.MainChain" t="IncludeRecursive">
+          <e p="AEDPoSContractInitializationDataProvider.cs" t="Include" />
+          <e p="AElf.Blockchains.MainChain.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="CrossChainContractInitializationDataProvider.cs" t="Include" />
+          <e p="MainChainAElfModule.cs" t="Include" />
+          <e p="MainChainContractDeploymentListProvider.cs" t="Include" />
+          <e p="MainChainGenesisSmartContractDtoProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Blockchains.MainChain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.c.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TokenContractInitializationDataProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.Blockchains.SideChain" t="IncludeRecursive">
+          <e p="AEDPoSContractInitializationDataProvider.cs" t="Include" />
+          <e p="AElf.Blockchains.SideChain.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="CrossChainContractInitializationDataProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Blockchains.SideChain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="MinerListExtension.cs" t="Include" />
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="SideChainAElfModule.cs" t="Include" />
+          <e p="SideChainContractDeploymentListProvider.cs" t="Include" />
+          <e p="SideChainGenesisSmartContractDtoProvider.cs" t="Include" />
+          <e p="SideChainInitializationDataProvider.cs" t="Include" />
+          <e p="TokenContractInitializationDataProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.ContractDeployer" t="IncludeRecursive">
+          <e p="AElf.ContractDeployer.csproj" t="IncludeRecursive" />
+          <e p="AElf.ContractDeployer.targets" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractDeployerModule.cs" t="Include" />
+          <e p="ContractsDeployer.cs" t="Include" />
+          <e p="NoContractDllFoundInManifestException.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.ContractDeployer.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.ContractTestBase" t="IncludeRecursive">
+          <e p="AElf.ContractTestBase.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractTestKit" t="Include">
+            <e p="ChainInitializationDto.cs" t="Include" />
+            <e p="ChainInitializationOptions.cs" t="Include" />
+            <e p="ContractTestBase.cs" t="Include" />
+            <e p="ContractTestConstants.cs" t="Include" />
+            <e p="ContractTestKit.cs" t="Include" />
+            <e p="ContractTestKitFactory.cs" t="Include" />
+            <e p="ContractTestModule.cs" t="Include" />
+            <e p="ContractTestService.cs" t="Include" />
+            <e p="IBlockTimeProvider.cs" t="Include" />
+            <e p="IContractTesterFactory.cs" t="Include" />
+            <e p="IRefBlockInfoProvider.cs" t="Include" />
+            <e p="IResetBlockTimeProvider.cs" t="Include" />
+            <e p="ITestTransactionExecutor.cs" t="Include" />
+            <e p="MethodStubFactory.cs" t="Include" />
+            <e p="SampleAccount.cs" t="Include" />
+            <e p="SampleAddress.cs" t="Include" />
+            <e p="SmartContractTestConstants.cs" t="Include" />
+            <e p="TestTransactionExecutor.cs" t="Include" />
+            <e p="UnitTestContractZeroCodeProvider.cs" t="Include" />
+            <e p="UnitTestSmartContractAddressService.cs" t="Include" />
+          </e>
+          <e p="GenesisSmartContractDtoProvider.cs" t="Include" />
+          <e p="IContractCodeProvider.cs" t="Include" />
+          <e p="MainChainAEDPoSContractInitializationDataProvider.cs" t="Include" />
+          <e p="MainChainContractDeploymentListProvider.cs" t="Include" />
+          <e p="MainChainContractTestBase.cs" t="Include" />
+          <e p="MainChainContractTestModule.cs" t="Include" />
+          <e p="MainChainCrossChainContractInitializationDataProvider.cs" t="Include" />
+          <e p="MainChainParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="MainChainTokenContractInitializationDataProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.ContractTestBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="SideChainAEDPoSContractInitializationDataProvider.cs" t="Include" />
+          <e p="SideChainContractDeploymentListProvider.cs" t="Include" />
+          <e p="SideChainContractTestBase.cs" t="Include" />
+          <e p="SideChainContractTestModule.cs" t="Include" />
+          <e p="SideChainCrossChainContractInitializationDataProvider.cs" t="Include" />
+          <e p="SideChainInitializationDataProvider.cs" t="Include" />
+          <e p="SideChainParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="SideChainTokenContractInitializationDataProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.ContractTestKit" t="IncludeRecursive">
+          <e p="AElf.ContractTestKit.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractTestBase.cs" t="Include" />
+          <e p="ContractTestModule.cs" t="Include" />
+          <e p="Extensions" t="Include">
+            <e p="AllCalculateFeeCoefficientsExtensions.cs" t="Include" />
+            <e p="CalculateFeeCoefficientsExtensions.cs" t="Include" />
+            <e p="GenesisContractDtoExtensions.cs" t="Include" />
+          </e>
+          <e p="IBlockTimeProvider.cs" t="Include" />
+          <e p="IContractTesterFactory.cs" t="Include" />
+          <e p="IRefBlockInfoProvider.cs" t="Include" />
+          <e p="IResetBlockTimeProvider.cs" t="Include" />
+          <e p="ITestTransactionExecutor.cs" t="Include" />
+          <e p="MethodStubFactory.cs" t="Include" />
+          <e p="MockCalculateFunctionProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.ContractTestKit.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="SampleAccount.cs" t="Include" />
+          <e p="SampleAddress.cs" t="Include" />
+          <e p="SmartContractTestConstants.cs" t="Include" />
+          <e p="TestTransactionExecutor.cs" t="Include" />
+          <e p="UnitTestContractZeroCodeProvider.cs" t="Include" />
+          <e p="UnitTestSmartContractAddressService.cs" t="Include" />
+        </e>
+        <e p="AElf.ContractTestKit.AEDPoSExtension" t="IncludeRecursive">
+          <e p="AEDPoSExtensionConstants.cs" t="Include" />
+          <e p="AEDPoSExtensionTestBase.cs" t="Include" />
+          <e p="AElf.ContractTestKit.AEDPoSExtension.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BlockMiningException.cs" t="Include" />
+          <e p="BlockMiningService.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ContractTestAEDPoSExtensionModule.cs" t="Include" />
+          <e p="IBlockMiningService.cs" t="Include" />
+          <e p="InitializationFailedException.cs" t="Include" />
+          <e p="ITestDataProvider.cs" t="Include" />
+          <e p="ITransactionListProvider.cs" t="Include" />
+          <e p="ITransactionTraceProvider.cs" t="Include" />
+          <e p="MissionedECKeyPairs.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.ContractTestKit.AEDPoSExtension.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="ProvideTransactionListPostExecutionPlugin.cs" t="Include" />
+          <e p="TestDataProvider.cs" t="Include" />
+          <e p="TransactionExecutedEventHandler.cs" t="Include" />
+          <e p="TransactionListProvider.cs" t="Include" />
+          <e p="TransactionTraceProvider.cs" t="Include" />
+          <e p="UnitTestPlainTransactionExecutingService.cs" t="Include" />
+        </e>
+        <e p="AElf.CSharp.CodeOps" t="IncludeRecursive">
+          <e p="AElf.CSharp.CodeOps.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Constants.cs" t="Include" />
+          <e p="CSharpCodeOpsAElfModule.cs" t="Include" />
+          <e p="CSharpCodeOpsOptions.cs" t="Include" />
+          <e p="CSharpContractAuditor.cs" t="Include" />
+          <e p="CSharpContractPatcher.cs" t="Include" />
+          <e p="DescriptorOnlyServiceBinder.cs" t="Include" />
+          <e p="Exceptions.cs" t="Include" />
+          <e p="ExecutionObserverProxy.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="Instructions" t="Include">
+            <e p="IStateWrittenInstructionInjector.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.CSharp.CodeOps.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Patchers" t="Include">
+            <e p="IPatcher.cs" t="Include" />
+            <e p="Module" t="Include">
+              <e p="ExecutionObserverInjector.cs" t="Include" />
+              <e p="MethodCallReplacer.cs" t="Include" />
+              <e p="ResetFieldsMethodInjector.cs" t="Include" />
+              <e p="StateWrittenSizeLimitMethodInjector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Policies" t="Include">
+            <e p="DefaultPolicy.cs" t="Include" />
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="Validators" t="Include">
+            <e p="Assembly" t="Include">
+              <e p="AcsValidator.cs" t="Include" />
+            </e>
+            <e p="IValidator.cs" t="Include" />
+            <e p="Method" t="Include">
+              <e p="ArrayValidator.cs" t="Include" />
+              <e p="DescriptorAccessValidator.cs" t="Include" />
+              <e p="FloatOpsValidator.cs" t="Include" />
+              <e p="GetHashCodeValidator.cs" t="Include" />
+              <e p="MultiDimArrayValidator.cs" t="Include" />
+              <e p="UncheckedMathValidator.cs" t="Include" />
+            </e>
+            <e p="Module" t="Include">
+              <e p="ContractStructureValidator.cs" t="Include" />
+              <e p="InstructionInjectionValidator.cs" t="Include" />
+              <e p="ObserverProxyValidator.cs" t="Include" />
+              <e p="ResetFieldsValidator.cs" t="Include" />
+            </e>
+            <e p="ValidationResult.cs" t="Include" />
+            <e p="Whitelist" t="Include">
+              <e p="IWhitelistProvider.cs" t="Include" />
+              <e p="IWhitelistValidator.cs" t="Include" />
+              <e p="MemberRule.cs" t="Include" />
+              <e p="NamespaceRule.cs" t="Include" />
+              <e p="Permission.cs" t="Include" />
+              <e p="Trust.cs" t="Include" />
+              <e p="TypeRule.cs" t="Include" />
+              <e p="Whitelist.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.EconomicSystem" t="IncludeRecursive">
+          <e p="AElf.EconomicSystem.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="EconomicContractInitializationProvider.cs" t="Include" />
+          <e p="EconomicSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="EconomicSystemAElfModule.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.EconomicSystem.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ProfitContractInitializationProvider.cs" t="Include" />
+          <e p="ProfitSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.c.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TokenConverterContractInitializationProvider.cs" t="Include" />
+          <e p="TokenConverterSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="TokenHolderContractInitializationProvider.cs" t="Include" />
+          <e p="TokenHolderSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="TreasuryContractInitializationProvider.cs" t="Include" />
+          <e p="TreasurySmartContractAddressNameProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.GovernmentSystem" t="IncludeRecursive">
+          <e p="AElf.GovernmentSystem.csproj" t="IncludeRecursive" />
+          <e p="AssociationContractInitializationProvider.cs" t="Include" />
+          <e p="AssociationSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ElectionContractInitializationProvider.cs" t="Include" />
+          <e p="ElectionSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="GovernmentSystemAElfModule.cs" t="Include" />
+          <e p="IParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.GovernmentSystem.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ParliamentContractInitializationProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.c.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="ReferendumContractInitializationProvider.cs" t="Include" />
+          <e p="ReferendumSmartContractAddressNameProvider.cs" t="Include" />
+          <e p="VoteContractInitializationProvider.cs" t="Include" />
+          <e p="VoteSmartContractAddressNameProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.Launcher" t="IncludeRecursive">
+          <e p="AElf.Launcher.csproj" t="IncludeRecursive" />
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="appsettings.MainChain.CustomNet.json" t="Include" />
+          <e p="appsettings.MainChain.MainNet.json" t="Include" />
+          <e p="appsettings.MainChain.TestNet.json" t="Include" />
+          <e p="appsettings.Production.json" t="Include" />
+          <e p="appsettings.SideChain.CustomNet.json" t="Include" />
+          <e p="appsettings.SideChain.MainNet.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="contracts" t="Include">
+            <e p=".gitignore" t="Include" />
+            <e p="AElf.Benchmark.PerformanceTestContract.dll" t="Include" />
+            <e p="AElf.Contracts.Association.dll" t="Include" />
+            <e p="AElf.Contracts.Configuration.dll" t="Include" />
+            <e p="AElf.Contracts.Consensus.AEDPoS.dll" t="Include" />
+            <e p="AElf.Contracts.CrossChain.dll" t="Include" />
+            <e p="AElf.Contracts.Economic.dll" t="Include" />
+            <e p="AElf.Contracts.Election.dll" t="Include" />
+            <e p="AElf.Contracts.GenesisUpdate.dll" t="Include" />
+            <e p="AElf.Contracts.MultiToken.dll" t="Include" />
+            <e p="AElf.Contracts.Parliament.dll" t="Include" />
+            <e p="AElf.Contracts.Profit.dll" t="Include" />
+            <e p="AElf.Contracts.Referendum.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.A.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.B.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.BasicFunction.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.BasicFunctionWithParallel.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.BasicSecurity.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.BasicUpdate.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.C.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.DApp.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.Events.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.MethodCallThreshold.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.Performance.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.RandomNumberProvider.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.ResourceSpender.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.TransactionFeeCharging.dll" t="Include" />
+            <e p="AElf.Contracts.TestContract.TransactionFees.dll" t="Include" />
+            <e p="AElf.Contracts.TokenConverter.dll" t="Include" />
+            <e p="AElf.Contracts.TokenHolder.dll" t="Include" />
+            <e p="AElf.Contracts.Treasury.dll" t="Include" />
+            <e p="AElf.Contracts.Vote.dll" t="Include" />
+          </e>
+          <e p="Dockerfile" t="Include" />
+          <e p="Logs" t="Include">
+            <e p=".gitignore" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Launcher.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json.template" t="Include" />
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="AElf.Runtime.CSharp.ExecutiveTokenPlugin/bin" t="ExcludeRecursive" />
+        <e p="AElf.Runtime.CSharp.ExecutiveTokenPlugin/obj" t="ExcludeRecursive" />
+        <e p="AElf.WebApp" t="Include" />
+        <e p="AElf.WebApp.Application.Chain" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.Chain.csproj" t="IncludeRecursive" />
+          <e p="Application" t="Include">
+            <e p="TransactionValidationStatusChangedEventHandler.cs" t="Include" />
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BlockChainAppService.cs" t="Include" />
+          <e p="BlockchainServiceExtensions.cs" t="Include" />
+          <e p="ChainApplicationWebAppAElfModule.cs" t="Include" />
+          <e p="ChainStatusAppService.cs" t="Include" />
+          <e p="ContractFileDescriptorSetAppService.cs" t="Include" />
+          <e p="Dto" t="Include">
+            <e p="BlockBodyDto.cs" t="Include" />
+            <e p="BlockDto.cs" t="Include" />
+            <e p="BlockHeaderDto.cs" t="Include" />
+            <e p="BlockStateDto.cs" t="Include" />
+            <e p="ChainStatusDto.cs" t="Include" />
+            <e p="CreateRawTransactionInput.cs" t="Include" />
+            <e p="CreateRawTransactionOutput.cs" t="Include" />
+            <e p="ExecuteRawTransactionDto.cs" t="Include" />
+            <e p="ExecuteTransactionDto.cs" t="Include" />
+            <e p="GetTransactionPoolStatusOutput.cs" t="Include" />
+            <e p="LogEventDto.cs" t="Include" />
+            <e p="MerklePathDto.cs" t="Include" />
+            <e p="MiningSequenceDto.cs" t="Include" />
+            <e p="SendRawTransactionInput.cs" t="Include" />
+            <e p="SendRawTransactionOutput.cs" t="Include" />
+            <e p="SendTransactionInput.cs" t="Include" />
+            <e p="SendTransactionOutput.cs" t="Include" />
+            <e p="SendTransactionsInput.cs" t="Include" />
+            <e p="TaskQueueStatusInfoDto.cs" t="Include" />
+            <e p="TransactionDto.cs" t="Include" />
+            <e p="TransactionResultDto.cs" t="Include" />
+          </e>
+          <e p="Error.cs" t="Include" />
+          <e p="Infrastructure" t="Include">
+            <e p="ITransactionResultStatusCacheProvider.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.Chain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Profile" t="Include">
+            <e p="BlockProfile.cs" t="Include" />
+            <e p="BlockStateSetProfile.cs" t="Include" />
+            <e p="ChainProfile.cs" t="Include" />
+            <e p="CommonProfile.cs" t="Include" />
+            <e p="MerklePathProfile.cs" t="Include" />
+            <e p="TaskQueueInfoProfile.cs" t="Include" />
+            <e p="TransactionPoolStatusProfile.cs" t="Include" />
+            <e p="TransactionProfile.cs" t="Include" />
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TaskQueueStatusAppService.cs" t="Include" />
+          <e p="TransactionAppService.cs" t="Include" />
+          <e p="TransactionReadOnlyExecutionServiceExtensions.cs" t="Include" />
+          <e p="TransactionResultAppService.cs" t="Include" />
+          <e p="TransactionResultProxyService.cs" t="Include" />
+          <e p="WebAppOptions.cs" t="Include" />
+        </e>
+        <e p="AElf.WebApp.Application.Core" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.Core.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="CoreApplicationWebAppAElfModule.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.WebApp.Application.Net" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.Net.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Dto" t="Include">
+            <e p="AddPeerInput.cs" t="Include" />
+            <e p="GetNetworkInfoOutput.cs" t="Include" />
+            <e p="PeerDto.cs" t="Include" />
+          </e>
+          <e p="NetApplicationWebAppAElfModule.cs" t="Include" />
+          <e p="NetAppService.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.Net.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Profile" t="Include">
+            <e p="PeerInfoProfile.cs" t="Include" />
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.WebApp.Web" t="IncludeRecursive">
+          <e p="AElf.WebApp.Web.csproj" t="IncludeRecursive" />
+          <e p="ApiOptionFilter.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ConfigureSwaggerOptions.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Web.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="UpperCamelCaseNamingStrategy.cs" t="Include" />
+          <e p="WebAppAbpAspNetCoreMvcModule.cs" t="Include" />
+          <e p="WebAppAbpServiceConvention.cs" t="Include" />
+          <e p="WebWebAppAElfModule.cs" t="Include" />
+        </e>
+      </e>
+      <e p="test" t="Include">
+        <e p="AElf.Contracts.AEDPoSExtension.Demo.Tests" t="IncludeRecursive">
+          <e p="AEDPoSExtensionDemoModule.cs" t="Include" />
+          <e p="AEDPoSExtensionDemoTestBase.cs" t="Include" />
+          <e p="AEDPoSExtensionTests.cs" t="Include" />
+          <e p="AElf.Contracts.AEDPoSExtension.Demo.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="MaximumMinersCountTests.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.AEDPoSExtension.Demo.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="RandomNumberProviderContract.c.cs" t="Include" />
+              <e p="RandomNumberProviderContract.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="RandomNumberProviderTests.cs" t="Include" />
+          <e p="README.md" t="Include" />
+          <e p="SideChainRentFeeModule.cs" t="Include" />
+          <e p="SideChainRentFeeTestBase.cs" t="Include" />
+          <e p="SideChainSideChainRentFeeTest.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Association.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Association.Tests.csproj" t="IncludeRecursive" />
+          <e p="AssociationContractTestAElfModule.cs" t="Include" />
+          <e p="AssociationContractTestBase.cs" t="Include" />
+          <e p="AssociationContractTests.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractDeploymentListProvider.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Association.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+          </e>
+          <e p="UnitTestTokenContractInitializationProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Configuration.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Configuration.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ConfigurationContractTest.cs" t="Include" />
+          <e p="ConfigurationContractTestAElfModule.cs" t="Include" />
+          <e p="ConfigurationContractTestBase.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Configuration.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Consensus.AEDPoS.Tests" t="IncludeRecursive">
+          <e p="AEDPoSContractConstants.cs" t="Include" />
+          <e p="AEDPoSContractTestAElfModule.cs" t="Include" />
+          <e p="AEDPoSContractTestBase.cs" t="Include" />
+          <e p="AEDPoSContractTestConstants.cs" t="Include" />
+          <e p="AElf.Contracts.Consensus.AEDPoS.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="ACS1ImplTest.cs" t="Include" />
+            <e p="ACS4ImplTest.cs" t="Include" />
+            <e p="InValueRecoveryTest.cs" t="Include" />
+            <e p="MinersCountTest.cs" t="Include" />
+            <e p="MiningProcessTest.cs" t="Include" />
+            <e p="ViewTests.cs" t="Include" />
+          </e>
+          <e p="Contracts.manifest" t="Include" />
+          <e p="Extensions" t="Include">
+            <e p="BytesValueExtensions.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Consensus.AEDPoS.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.c.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.g.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.c.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="ResetBlockTimeProvider.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.CrossChain.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.CrossChain.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="CrossChainContractTestAElfModule.cs" t="Include" />
+          <e p="CrossChainContractTestBase.cs" t="Include" />
+          <e p="CrossChainIndexingActionTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.CrossChain.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="Acs7.c.cs" t="Include" />
+              <e p="Acs7.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="SideChainLifeTimeManagementTest.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Economic.AEDPoSExtension.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Economic.AEDPoSExtension.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="EconomicTestBase.cs" t="Include" />
+          <e p="EconomicTestConstants.cs" t="Include" />
+          <e p="EconomicTestHelpers.cs" t="Include" />
+          <e p="EconomicTestModule.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Economic.AEDPoSExtension.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TreasuryCollectionTests.cs" t="Include" />
+          <e p="TreasuryDistributionInformation.cs" t="Include" />
+          <e p="TreasuryDistributionTests.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Economic.TestBase" t="IncludeRecursive">
+          <e p="AElf.Contracts.Economic.TestBase.csproj" t="IncludeRecursive" />
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ContractsPreparation.cs" t="Include" />
+          <e p="EconomicContractsTestBase.cs" t="Include" />
+          <e p="EconomicContractsTestConstants.cs" t="Include" />
+          <e p="EconomicContractsTestModule.cs" t="Include" />
+          <e p="EconomicTestTransactionExecutor.cs" t="Include" />
+          <e p="MockBlockValidationService.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Economic.TestBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OtherContractsOperation.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.c.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.g.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.c.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.EconomicSystem.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.EconomicSystem.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="AdvanceResourceTokenTests.cs" t="Include" />
+            <e p="AETCTest.cs" t="Include" />
+            <e p="CalculateCoefficientFeeTests.cs" t="Include" />
+            <e p="ConfigurationTests.cs" t="Include" />
+            <e p="DonateTests.cs" t="Include" />
+            <e p="LockTokenTest.cs" t="Include" />
+            <e p="ThresholdContractTests.cs" t="Include" />
+            <e p="TokenConvertTest.cs" t="Include" />
+            <e p="TransactionFeeProviderTests.cs" t="Include" />
+            <e p="TransactionFeeTests.cs" t="Include" />
+            <e p="TreasureViewTests.cs" t="Include" />
+            <e p="TreasuryBasicTests.cs" t="Include" />
+          </e>
+          <e p="Contracts.manifest" t="Include" />
+          <e p="EconomicSystemTestBase.cs" t="Include" />
+          <e p="EconomicSystemTestConstants.cs" t="Include" />
+          <e p="EconomicSystemTestModule.cs" t="Include" />
+          <e p="ElectionContractConstants.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.EconomicSystem.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="Acs8.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.c.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.g.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.c.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TokenHolderContract.c.cs" t="Include" />
+              <e p="TokenHolderContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.Election.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Election.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="ACS1ImplTest.cs" t="Include" />
+            <e p="ElectionTests.cs" t="Include" />
+            <e p="ElectionViewTests.cs" t="Include" />
+          </e>
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ElectionContractConstants.cs" t="Include" />
+          <e p="ElectionContractTestBase.cs" t="Include" />
+          <e p="ElectionContractTestConstants.cs" t="Include" />
+          <e p="ElectionContractTestHelpers.cs" t="Include" />
+          <e p="ElectionContractTestModule.cs" t="Include" />
+          <e p="Full" t="Include">
+            <e p="MainChainMinerElection.cs" t="Include" />
+            <e p="ReleaseProfitsFromTreasury.cs" t="Include" />
+          </e>
+          <e p="GQL" t="Include">
+            <e p="ElectionTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Election.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ProfitContractConsts.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="EconomicContract.c.cs" t="Include" />
+              <e p="EconomicContract.g.cs" t="Include" />
+              <e p="ElectionContract.c.cs" t="Include" />
+              <e p="ElectionContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+          </e>
+          <e p="VoteContractConsts.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Genesis.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Genesis.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="GenesisContractAuthTest.cs" t="Include" />
+          <e p="GenesisContractTest.cs" t="Include" />
+          <e p="GenesisContractTestAElfModule.cs" t="Include" />
+          <e p="GenesisContractTestBase.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Genesis.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.GenesisUpdate" t="IncludeRecursive">
+          <e p="AElf.Contracts.GenesisUpdate.csproj" t="IncludeRecursive" />
+          <e p="BasicContractZero.cs" t="Include" />
+          <e p="BasicContractZeroState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.GenesisUpdate.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="BasicContractZeroUpdate.c.cs" t="Include" />
+              <e p="BasicContractZeroUpdate.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.MultiToken.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.MultiToken.Tests.csproj" t="IncludeRecursive" />
+          <e p="BasicFunctionContractInitializationProvider.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="ACS1_ImplementTest.cs" t="Include" />
+            <e p="ACS2_TokenResourceTests.cs" t="Include" />
+            <e p="TokenApplicationTests.cs" t="Include" />
+            <e p="TokenEconomicTests.cs" t="Include" />
+            <e p="TokenFeeTest.cs" t="Include" />
+            <e p="TokenManagementTests.cs" t="Include" />
+          </e>
+          <e p="ContractDeploymentListProvider.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="DPoSContractConsts.cs" t="Include" />
+          <e p="MultiTokenContractTestAElfModule.cs" t="Include" />
+          <e p="MultiTokenContractTestBase.cs" t="Include" />
+          <e p="MultiTokenContractWithCustomSystemTransactionTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.MultiToken.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OtherBasicFunctionContractInitializationProvider.cs" t="Include" />
+          <e p="ParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.c.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.c.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.c.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="SideChainUnitTestTokenContractInitializationProvider.cs" t="Include" />
+          <e p="TestTokenBalanceTransactionGenerator.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+          </e>
+          <e p="UnitTestTokenContractInitializationProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.MultiTokenCrossChainTransfer.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.MultiTokenCrossChainTransfer.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractDeploymentListProvider.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="MultiTokenContractCrossChainTest.cs" t="Include" />
+          <e p="MultiTokenContractCrossChainTestAElfModule.cs" t="Include" />
+          <e p="MultiTokenContractCrossChainTestBase.cs" t="Include" />
+          <e p="MultiTokenContractReferenceFeeTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.MultiTokenCrossChainTransfer.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ParliamentContractInitializationDataProvider.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.c.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs5.c.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="AssociationContract.c.cs" t="Include" />
+              <e p="AssociationContract.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="ResetBlockTimeProvider.cs" t="Include" />
+          <e p="SideChainInitializationDataProvider.cs" t="Include" />
+          <e p="SideChainUnitTestTokenContractInitializationProvider.cs" t="Include" />
+          <e p="TestTokenBalanceTransactionGenerator.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Round_Generation.cs" t="Include" />
+          </e>
+          <e p="UnitTestTokenContractInitializationProvider.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Parliament.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Parliament.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Parliament.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ParliamentContractPrivilegeTest.cs" t="Include" />
+          <e p="ParliamentContractTest.cs" t="Include" />
+          <e p="ParliamentContractTestAElfModule.cs" t="Include" />
+          <e p="ParliamentContractTestBase.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.Profit.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Profit.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="ProfitItemManagementTests.cs" t="Include" />
+            <e p="ProfitTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Profit.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ProfitContractTestAElfModule.cs" t="Include" />
+          <e p="ProfitContractTestBase.cs" t="Include" />
+          <e p="ProfitContractTestConstants.cs" t="Include" />
+          <e p="ProfitTests.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="Types" t="Include">
+            <e p="MineList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.Referendum.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Referendum.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Referendum.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ReferendumContract.c.cs" t="Include" />
+              <e p="ReferendumContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="ReferendumContractTest.cs" t="Include" />
+          <e p="ReferendumContractTestAElfModule.cs" t="Include" />
+          <e p="ReferendumContractTestBase.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestBase" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestBase.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ContractTestAElfModule.cs" t="Include" />
+          <e p="ContractTestBase.cs" t="Include" />
+          <e p="ContractTester.cs" t="Include" />
+          <e p="GenesisSmartContractDtoExtensions.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TestBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="ConfigurationContract.c.cs" t="Include" />
+              <e p="ConfigurationContract.g.cs" t="Include" />
+              <e p="CrossChainContract.c.cs" t="Include" />
+              <e p="CrossChainContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ResourceContract.c.cs" t="Include" />
+              <e p="ResourceContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="SampleECKeyPairs.cs" t="Include" />
+          <e p="SmartContractTestConstants.cs" t="Include" />
+          <e p="TestBlockExecutingService.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MinerList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestBase.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestBase.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ContractTesterTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TestBase.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="TestBaseTestAElfModule.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TestContract.A" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.A.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractA.cs" t="Include" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.A.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestAContract.c.cs" t="Include" />
+              <e p="TestAContract.g.cs" t="Include" />
+              <e p="TestBContract.c.cs" t="Include" />
+              <e p="TestBContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.B" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.B.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractB.cs" t="Include" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.B.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestBContract.c.cs" t="Include" />
+              <e p="TestBContract.g.cs" t="Include" />
+              <e p="TestCContract.c.cs" t="Include" />
+              <e p="TestCContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.BasicFunction" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.BasicFunction.csproj" t="IncludeRecursive" />
+          <e p="BasicContract_Action.cs" t="Include" />
+          <e p="BasicContract_FeeProvider.cs" t="Include" />
+          <e p="BasicContract_View.cs" t="Include" />
+          <e p="BasicContractState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.BasicFunction.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.BasicFunctionWithParallel" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.BasicFunctionWithParallel.csproj" t="IncludeRecursive" />
+          <e p="BasicFunctionWithParallelContract_ACS1_StatePathsProvider.cs" t="Include" />
+          <e p="BasicFunctionWithParallelContract_ACS2_StatePathsProvider.cs" t="Include" />
+          <e p="BasicFunctionWithParallelContract_Action.cs" t="Include" />
+          <e p="BasicFunctionWithParallelContract_View.cs" t="Include" />
+          <e p="BasicFunctionWithParallelContractState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.BasicFunctionWithParallel.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="TestBasicFunctionWithParallelContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionWithParallelContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.BasicSecurity" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.BasicSecurity.csproj" t="IncludeRecursive" />
+          <e p="BasicContract_Action.cs" t="Include" />
+          <e p="BasicContract_FeeProvider.cs" t="Include" />
+          <e p="BasicContract_TestType.cs" t="Include" />
+          <e p="BasicContract_View.cs" t="Include" />
+          <e p="BasicContractState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.BasicSecurity.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TestBasicSecurityContract.c.cs" t="Include" />
+              <e p="TestBasicSecurityContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.BasicUpdate" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.BasicUpdate.csproj" t="IncludeRecursive" />
+          <e p="BasicContract_Action.cs" t="Include" />
+          <e p="BasicContract_FeeProvider.cs" t="Include" />
+          <e p="BasicContract_View.cs" t="Include" />
+          <e p="BasicContractState.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.BasicUpdate.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestBasicUpdateContract.c.cs" t="Include" />
+              <e p="TestBasicUpdateContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.C" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.C.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractC.cs" t="Include" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.C.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestAContract.c.cs" t="Include" />
+              <e p="TestAContract.g.cs" t="Include" />
+              <e p="TestCContract.c.cs" t="Include" />
+              <e p="TestCContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.DApp" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.DApp.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DAppConstants.cs" t="Include" />
+          <e p="DAppContract.cs" t="Include" />
+          <e p="DAppContract_ACS9.cs" t="Include" />
+          <e p="DAppContractState.cs" t="Include" />
+          <e p="DAppFeeProvider.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.DApp.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs9.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="DappContract.c.cs" t="Include" />
+              <e p="DappContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TokenHolderContract.c.cs" t="Include" />
+              <e p="TokenHolderContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.Events" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.Events.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractReference.cs" t="Include" />
+          <e p="Events_Helper.cs" t="Include" />
+          <e p="EventsContract_Action.cs" t="Include" />
+          <e p="EventsContract_View.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.Events.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestEventsContract.c.cs" t="Include" />
+              <e p="TestEventsContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.MethodCallThreshold" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.MethodCallThreshold.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="MethodCallThresholdContract.cs" t="Include" />
+          <e p="MethodCallThresholdContractConstants.cs" t="Include" />
+          <e p="MethodCallThresholdContractState.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.MethodCallThreshold.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs5.g.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.c.cs" t="Include" />
+              <e p="TestMethodCallThresholdContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.Performance" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.Performance.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.Performance.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PerformanceContract_Action.cs" t="Include" />
+          <e p="PerformanceContract_FeeProvider.cs" t="Include" />
+          <e p="PerformanceContract_View.cs" t="Include" />
+          <e p="PerformanceContractState.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TestPerformanceContract.c.cs" t="Include" />
+              <e p="TestPerformanceContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TestContract.RandomNumberProvider" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.RandomNumberProvider.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.RandomNumberProvider.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="RandomNumberProviderContract.c.cs" t="Include" />
+              <e p="RandomNumberProviderContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="RandomNumberProviderContract.cs" t="Include" />
+          <e p="RandomNumberProviderContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TestContract.ResourceSpender" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.ResourceSpender.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.ResourceSpender.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs8.g.cs" t="Include" />
+              <e p="TestResourceSpenderContract.c.cs" t="Include" />
+              <e p="TestResourceSpenderContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="ResourceSpenderContract.cs" t="Include" />
+          <e p="ResourceSpenderContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TestContract.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractBasicTests.cs" t="Include" />
+          <e p="ContractExternalCallTests.cs" t="Include" />
+          <e p="ContractMethodTests.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="ContractSecurityTests.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TestContract.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PatchedContractSecurityTests.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs2.c.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs8.c.cs" t="Include" />
+              <e p="Acs8.g.cs" t="Include" />
+              <e p="Acs8PluginTestContract.c.cs" t="Include" />
+              <e p="Acs8PluginTestContract.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TestBasicFunctionContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionContract.g.cs" t="Include" />
+              <e p="TestBasicFunctionWithParallelContract.c.cs" t="Include" />
+              <e p="TestBasicFunctionWithParallelContract.g.cs" t="Include" />
+              <e p="TestBasicSecurityContract.c.cs" t="Include" />
+              <e p="TestBasicSecurityContract.g.cs" t="Include" />
+              <e p="TestBasicUpdateContract.c.cs" t="Include" />
+              <e p="TestBasicUpdateContract.g.cs" t="Include" />
+              <e p="TestTransactionFeesContract.c.cs" t="Include" />
+              <e p="TestTransactionFeesContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+              <e p="TreasuryContract.c.cs" t="Include" />
+              <e p="TreasuryContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="TestContractAElfModule.cs" t="Include" />
+          <e p="TestContractTestBase.cs" t="Include" />
+          <e p="Type" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TestContract.TransactionFeeCharging" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.TransactionFeeCharging.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="ContractsReferences.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.TransactionFeeCharging.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.c.cs" t="Include" />
+              <e p="TestTransactionFeeChargingContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+            </e>
+          </e>
+          <e p="TransactionFeeChargingContract.cs" t="Include" />
+          <e p="TransactionFeeChargingContractConstants.cs" t="Include" />
+          <e p="TransactionFeeChargingContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TestContract.TransactionFees" t="IncludeRecursive">
+          <e p="AElf.Contracts.TestContract.TransactionFees.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contract_Action.cs" t="Include" />
+          <e p="Contract_IFeeCharged.cs" t="Include" />
+          <e p="Contract_View.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="AElf.Contracts.TestContract.TransactionFees.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs0.c.cs" t="Include" />
+              <e p="Acs0.g.cs" t="Include" />
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs8.g.cs" t="Include" />
+              <e p="Acs8PluginTestContract.c.cs" t="Include" />
+              <e p="Acs8PluginTestContract.g.cs" t="Include" />
+              <e p="TestTransactionFeesContract.c.cs" t="Include" />
+              <e p="TestTransactionFeesContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+              <e p="reference" t="Include" />
+              <e p="stub" t="Include" />
+            </e>
+          </e>
+          <e p="TransactionFeesContractState.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TokenConverter.Internal.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.TokenConverter.Internal.Tests.csproj" t="IncludeRecursive" />
+          <e p="BancorHelperTest.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TokenConverter.Internal.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.Contracts.TokenConverter.Tests" t="IncludeRecursive">
+          <e p="ACS1_ImplementTest.cs" t="Include" />
+          <e p="AElf.Contracts.TokenConverter.Tests.csproj" t="IncludeRecursive" />
+          <e p="BancorHelper.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="InvalidValueException.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TokenConverter.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenConverterContract.c.cs" t="Include" />
+              <e p="TokenConverterContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TokenConverterContractTests.cs" t="Include" />
+          <e p="TokenConverterTestBase.cs" t="Include" />
+          <e p="TokenConverterTestModule.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.TokenHolder.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.TokenHolder.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DappSmartContractNameProvider.cs" t="Include" />
+          <e p="DAppTests.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.TokenHolder.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs2.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="DappContract.c.cs" t="Include" />
+              <e p="DappContract.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="ProfitContract.c.cs" t="Include" />
+              <e p="ProfitContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TokenContractImpl.c.cs" t="Include" />
+              <e p="TokenContractImpl.g.cs" t="Include" />
+              <e p="TokenHolderContract.c.cs" t="Include" />
+              <e p="TokenHolderContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="ResetBlockTimeProvider.cs" t="Include" />
+          <e p="TokenHolderContractTestAElfModule.cs" t="Include" />
+          <e p="TokenHolderContractTestBase.cs" t="Include" />
+          <e p="TokenHolderContractTestConstants.cs" t="Include" />
+          <e p="TokenHolderTests.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MineList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AElf.Contracts.Vote.AEDPoSExtension.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Vote.AEDPoSExtension.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Vote.AEDPoSExtension.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs4.c.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="VoteContractTestAElfModule.cs" t="Include" />
+          <e p="VoteContractTestBase.cs" t="Include" />
+        </e>
+        <e p="AElf.Contracts.Vote.Tests" t="IncludeRecursive">
+          <e p="AElf.Contracts.Vote.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BVT" t="Include">
+            <e p="ACS1ImplTest.cs" t="Include" />
+            <e p="BasicTests.cs" t="Include" />
+            <e p="SnapshotTests.cs" t="Include" />
+          </e>
+          <e p="Full" t="Include">
+            <e p="VoteForBestLanguageTests.cs" t="Include" />
+          </e>
+          <e p="GQL" t="Include">
+            <e p="BasicTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.Contracts.Vote.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="Acs10.c.cs" t="Include" />
+              <e p="Acs10.g.cs" t="Include" />
+              <e p="Acs3.c.cs" t="Include" />
+              <e p="Acs3.g.cs" t="Include" />
+              <e p="Acs4.g.cs" t="Include" />
+              <e p="Acs6.c.cs" t="Include" />
+              <e p="Acs6.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="AedposContractImpl.c.cs" t="Include" />
+              <e p="AedposContractImpl.g.cs" t="Include" />
+              <e p="BasicContractZero.c.cs" t="Include" />
+              <e p="BasicContractZero.g.cs" t="Include" />
+              <e p="ParliamentContract.c.cs" t="Include" />
+              <e p="ParliamentContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="ResetBlockTimeProvider.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="MineList.cs" t="Include" />
+          </e>
+          <e p="VoteContractTestAElfModule.cs" t="Include" />
+          <e p="VoteContractTestBase.cs" t="Include" />
+          <e p="VoteContractTestHelper.cs" t="Include" />
+        </e>
+        <e p="AElf.Test.Contracts" t="Include" />
+        <e p="AElf.TestBase" t="IncludeRecursive">
+          <e p="AElf.TestBase.csproj" t="IncludeRecursive" />
+          <e p="AElfIntegratedTest.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="IgnoreOnCIFact.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.TestBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TestBaseAElfModule.cs" t="Include" />
+        </e>
+        <e p="AElf.WebApp.Application.Chain.Tests" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.Chain.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BlockChainAppServiceTest.cs" t="Include" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="FormatterAndConverterTests.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.Chain.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="OSTestHelper.cs" t="Include" />
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+              <e p="TokenContract.c.cs" t="Include" />
+              <e p="TokenContract.g.cs" t="Include" />
+              <e p="TransactionFee.c.cs" t="Include" />
+              <e p="TransactionFee.g.cs" t="Include" />
+              <e p="VoteContract.c.cs" t="Include" />
+              <e p="VoteContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="TransactionToHubTests.cs" t="Include" />
+        </e>
+        <e p="AElf.WebApp.Application.Net.Tests" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.Net.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Contracts.manifest" t="Include" />
+          <e p="NetAppServiceTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.Net.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AElf.WebApp.Application.TestBase" t="IncludeRecursive">
+          <e p="AElf.WebApp.Application.TestBase.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="MockTxHub.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AElf.WebApp.Application.TestBase.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Protobuf" t="Include">
+            <e p="Generated" t="Include">
+              <e p="Acs1.c.cs" t="Include" />
+              <e p="Acs1.g.cs" t="Include" />
+              <e p="AedposContract.c.cs" t="Include" />
+              <e p="AedposContract.g.cs" t="Include" />
+            </e>
+            <e p="Proto" t="Include">
+              <e p="aelf" t="Include" />
+            </e>
+          </e>
+          <e p="WebAppErrorResponse.cs" t="Include" />
+          <e p="WebAppTestAElfModule.cs" t="Include" />
+          <e p="WebAppTestBase.cs" t="Include" />
+          <e p="WebAppTestStartup.cs" t="Include" />
+        </e>
+        <e p="test/AElf.Test.WebApp" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -6,6 +6,7 @@ using Acs1;
 using Acs3;
 using AElf.Contracts.Association;
 using AElf.Contracts.Parliament;
+using AElf.ContractTestBase.ContractTestKit;
 using AElf.CSharp.CodeOps;
 using AElf.CSharp.Core.Extension;
 using AElf.Kernel;
